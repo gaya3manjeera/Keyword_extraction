@@ -1,6 +1,6 @@
 # GLiNER Integration for Entity Detection
 ## Overview
-This repository provides code examples for using the GLiNER (Generalized Linguistic Named Entity Recognition) model to detect specific entities, such as requirement IDs, from structured text. The repository showcases two different approaches for integrating GLiNER:
+This repository provides code examples for using the GLiNER (Generalist and Lightweight Model for Named Entity Recognition) model to detect specific entities, such as requirement IDs, from structured text. The repository showcases two different approaches for integrating GLiNER:
 
 - Using GLiNER's pre-trained model directly.
 - Integrating GLiNER with the spaCy pipeline for enhanced linguistic processing.
